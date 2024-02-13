@@ -1,13 +1,13 @@
-Title 1: Kolo School (course website)
-Title 2: Pong Game
+Title1: Kolo School E-learning website   
+Title2: Pong game
 
 Group: 7
 
 Group Members:
-      Name                            id
-   Blien Moges                   ETS 0398/14
-   Daniel Ababu                  ETS 0444/14
-   Daniel Yilma                  ETS 0441/14
-   Eyobel Mebratie               ETS 0597/14
-   Firaol Nigusse                ETS 0665/14
-   Eyerusalem Rufael             ETS 0572/14
+
+    Blien Moges                   ETS 0398/14
+    Daniel Ababu                  ETS 0444/14
+    Daniel Yilma                  ETS 0441/14
+    Eyobel Mebratie               ETS 0597/14
+    Firaol Nigusse                ETS 0665/14
+    Eyerusalem Rufael             ETS 0572/14
